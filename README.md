@@ -3,3 +3,7 @@ https://www.youtube.com/watch?v=NQq0dOoEPUM
 self-해커톤 [자바] 공부 해보기
 .
 로컬에서  intellij idea de를 통하여서 자바를 공부 중이지만 아직 github와 연동이 어려운 상태  이슈파악을 하였고 풀 하도록  변경예정
+
+
+10.2일 깃과의 연동은 성공했지만 여태까지 공부해온 작업물이 실수로 다 날려벼렸다..
+첨부터 다시..
