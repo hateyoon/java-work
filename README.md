@@ -10,3 +10,20 @@ self-해커톤 [자바] 공부 해보기
 
 
 기억하자 open -a "IntelliJ IDEA CE" .
+
+
+
+
+### 최종 예시
+
+README 파일에 추가할 내용은 다음과 같습니다:
+
+```markdown
+# Project Title
+
+## Open IntelliJ IDEA
+
+To open the current directory in IntelliJ IDEA CE, use the following command:
+
+```bash
+open -a "IntelliJ IDEA CE" .
