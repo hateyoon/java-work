@@ -27,7 +27,7 @@ To open the current directory in IntelliJ IDEA CE, use the following command:
 
 ```bash
 open -a "IntelliJ IDEA CE" .
-
+```
 '''
 ###
 
