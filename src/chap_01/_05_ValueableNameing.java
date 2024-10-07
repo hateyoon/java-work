@@ -14,8 +14,23 @@ public class _05_ValueableNameing {
         String nationality = "대한민국"; // 국적
         String firstName = "현성"; // 이름
         String lastName = "김"; // 성
-        String dateOFBirth = "2001-12-31"; // 생년월일
-        String resident
-//일단 확인
+        String dateOfBirth = "2001-12-31"; // 생년월일
+        String residentialAdress = "무슨호텔"; // 체류지
+        String purposeOfVisit = "관광"; // 입국목적
+        String flightNumber = "KE657"; // 항공 편명
+        String _flightNo = "ke657"; //밑줄시작
+        String flight_no_2 = "ke358"; // 밑줄고 숫자 표함
+       // String -flightNo =
+
+
+        int accompany = 2; // 동반 가족 수
+        int lengthOfStay = 5; // 체류 기간
+
+        String item1 = "시계";
+        String item2 = "가방;";
+
+        int
+
+
     }
 }
